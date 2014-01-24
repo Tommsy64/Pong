@@ -1,0 +1,10 @@
+Our game should follow these simple rules:
+
+The game is won when all boxes are hit
+The game is lost when the ball reaches the lower boundary of the game
+When the ball hits the left, top or right wall it bounces back and its speed is incremented
+The player may move the paddle using his mouse and drag the paddle on the y-axis
+When the ball hits the paddle, its speed is incremented
+A progress bar with a label gives an information how many boxes are left
+The game is started when the player presses the start button
+When the game is lost, pressing the start button restarts the game
